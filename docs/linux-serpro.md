@@ -29,6 +29,8 @@ cd serpro
 
 A tela de terminal deve ser parecida como a figura abaixo:
 ![02-tela-terminal06](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/b3baa6ed-8da3-4255-8656-59e46545fa41)
+
+
 Dentro desta pasta criada, vamos iniciar o processo de instalação de alguns pacotes necessários. O primeiro pacote a ser baixado é: `libssl1.0.0_1.0.2g-1ubuntu4.20_amd64.deb`  Utilize o comando abaixo para download do pacote:
 
 ```
@@ -119,7 +121,5 @@ Após a instalação do programa, clique no menu do Linux Mint e encontre o prog
 ![21-menu-neoid-mint](https://github.com/doguibnu/serpro-neoid-linux-mint-21-2/assets/38897311/abd9f967-fb35-4cc3-9142-fc7b61c2b56e)
 
 Para aprender a usar o **NeoID**, utilize o manual oficial disponibilizado no site da [Serpro ](https://neoid.estaleiro.serpro.gov.br/downloads/Manual-NeoID.pdf)
-
-
 
 TUTORIAL realizado através do  **DEPARTAMENTO de TI**
