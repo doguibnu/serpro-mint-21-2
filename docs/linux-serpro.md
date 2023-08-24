@@ -120,10 +120,3 @@ Após a instalação do programa, clique no menu do Linux Mint e encontre o prog
 
 Para aprender a usar o **NeoID**, utilize o manual oficial disponibilizado no site da [Serpro ](https://neoid.estaleiro.serpro.gov.br/downloads/Manual-NeoID.pdf)
 
-**TUTORIAL REALIZADO PELO** **Setor de TI**
-
-[Prefeitura Muncipal de Prudentópolis - Paraná](https://www.prudentopolis.pr.gov.br/)
-
-**Douglas Giovani Oechsler**
-
-**Selmo Andrei Bobato**
