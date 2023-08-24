@@ -1,0 +1,18 @@
+site_name: Serpro-Linux Mint
+nav:
+  - Serpro: index.md
+  - Como Instalar: linux-serpro.md
+
+theme:
+  name: material
+  language: pt-BR
+  font:
+   text: Poppins
+  palette:
+    scheme: slate #default
+    primary: light green
+  icon:
+    repo: fontawesome/brands/git-alt
+# name: material  #readthedocs 
+#  font:
+#   code: Rem
