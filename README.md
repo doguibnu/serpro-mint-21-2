@@ -1,4 +1,4 @@
-Acesse através do [GitHub Pages](https://doguibnu.github.io/serpro-mint-21-2/linux-serpro/)
+**Acesse através do** [GitHub Pages](https://doguibnu.github.io/serpro-mint-21-2/linux-serpro/)
 
 
 A Serpro disponibiliza o assinador digital em Nuvem **NeoID** também para o sistema operacional Linux.
